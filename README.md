@@ -62,7 +62,6 @@
 <p>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 🎨 Creative Design
@@ -119,7 +118,7 @@ Esey Life focuses on **Medication Management** and provides a simple digital exp
 
 > **Build technology that solves real problems and improves people's everyday lives.**
 
-🔗 **[View Esey Life Project](https://github.com/YOUR_USERNAME/esey-life)**
+🔗 **[View Esey Life Project](https://at4hgasfnctl6.ok.kimi.link/)**
 
 ---
 
