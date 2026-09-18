@@ -1,109 +1,129 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohamed Gamal
+# 👋 Welcome Engineers!
+
+## I'm Mohamed Gamal
 
 ### 🤖 AI Student at WE Applied Technology School
 
-💻 Python & Artificial Intelligence | 🎨 Creative Design | 🚀 Turning Ideas into Practical Projects
+<p>
+  <b>🐍 Python</b> &nbsp; • &nbsp;
+  <b>🤖 Artificial Intelligence</b> &nbsp; • &nbsp;
+  <b>🎨 Creative Design</b> &nbsp; • &nbsp;
+  <b>🚀 Technology</b>
+</p>
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Welcome Engineers" width="65%"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Mohamed Gamal Working" width="42%"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <hr>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm a **Grade 2 Artificial Intelligence Student** at **WE Applied Technology School**.
+🎓 I'm **Mohamed Gamal**, a **Grade 2 Artificial Intelligence Student** at **WE Applied Technology School**.
 
-🤖 I'm passionate about **Artificial Intelligence, Programming, Technology, and Problem Solving**.
+🤖 I'm passionate about **Artificial Intelligence, Programming, Technology, and Innovation**.
 
-🐍 Currently developing my skills in **Python** and exploring the world of **Artificial Intelligence**.
+🐍 I'm currently developing my programming skills with **Python** and exploring the world of **AI**.
 
-🎨 I also enjoy **Graphic Design and UI/UX Design** using **Adobe Photoshop, Adobe Illustrator, and Figma**.
+🎨 I also have an interest in **Graphic Design and UI/UX Design**, using tools such as **Adobe Photoshop, Adobe Illustrator, and Figma**.
 
-💡 I believe that learning technology is not only about studying concepts, but also about **building practical projects and solving real-world problems**.
+🌐 I'm also building my knowledge in **Networking and Information Technology**.
 
-🚀 My goal is to continuously learn, improve my skills, and create useful technology-based solutions.
+💡 I enjoy turning ideas into **practical projects** and learning through real-world challenges.
+
+🚀 My goal is to continuously improve my technical skills and build technology that can make a real difference.
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
 ### 🤖 AI & Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat&logo=openai&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ### 🌐 Networking & IT
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-005571?style=flat&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-### 🎨 Design
+### 🎨 Creative Design
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ### 📊 Microsoft Office
 
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
 
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-### 💊 Esey Life
+## 💊 Esey Life
 
-**Esey Life** is a digital platform designed to make healthcare and daily life easier for elderly people.
+> **Technology with a purpose — making healthcare easier and more accessible.**
+
+**Esey Life** is a digital platform designed to help **elderly people** manage their medications and daily healthcare needs in a simple and user-friendly way.
 
 ### 🎯 The Problem
 
-Elderly people may face difficulties with:
+Managing multiple medications can be challenging, especially when users need to remember:
 
-- 💊 Remembering medication schedules
-- 📋 Managing different medications
-- ⏰ Following daily healthcare routines
-- 📱 Using complicated digital applications
+- 💊 Medication names
+- ⏰ Medication schedules
+- 📋 Dosages and instructions
+- 🔔 Important reminders
 
 ### 💡 Our Solution
 
-**Esey Life** provides a simple and user-friendly digital experience focused on **Medication Management**, helping elderly users manage their medications more easily.
+Esey Life focuses on **Medication Management** and provides a simple digital experience that helps users organize and follow their medication schedules more easily.
 
 ### 🚀 Key Features
 
-- 💊 Medication Management
-- ⏰ Medication Reminders
-- 📋 Medication Information
-- 🔔 Notifications
-- 👨‍👩‍👧 Family & Caregiver Support
-- 🎨 Simple and Accessible User Interface
-- 🗣️ User-Friendly Interaction
+| Feature | Description |
+|---|---|
+| 💊 Medication Management | Organize and manage medications |
+| ⏰ Medication Reminders | Help users remember medication times |
+| 📋 Medication Information | Access important medication details |
+| 🔔 Notifications | Important reminders and alerts |
+| 👨‍👩‍👧 Family Support | Support for family members and caregivers |
+| 🎨 Simple Interface | Designed with simplicity and accessibility in mind |
 
-### 🎯 Project Goal
+### 🎯 Project Vision
 
-> **Using technology to create simple and practical solutions for real-world problems.**
+> **Build technology that solves real problems and improves people's everyday lives.**
 
 🔗 **[View Esey Life Project](https://github.com/YOUR_USERNAME/esey-life)**
 
 ---
 
-## 🎓 Certificates & Training
+# 🎓 Certificates & Training
 
 ### 🏆 IBM SkillsBuild
 
@@ -113,7 +133,7 @@ Elderly people may face difficulties with:
 
 🖥️ **Information Technology Fundamentals**
 
-### 🏆 Cisco Networking Academy
+### 🌐 Cisco Networking Academy
 
 🌐 **Networking Basics**
 
@@ -123,49 +143,17 @@ Elderly people may face difficulties with:
 
 ---
 
-## 📚 Currently Learning
-
-🐍 **Python Programming**
-
-🤖 **Artificial Intelligence**
-
-🌐 **Networking & Information Technology**
-
-🎨 **Graphic Design**
-
-🖌️ **UI/UX Design**
-
-💡 **Problem Solving**
-
-🚀 **Building Practical Projects**
-
----
-
-## 🎯 My Interests
-
-🤖 Artificial Intelligence  
-🐍 Python Programming  
-💻 Technology  
-🎨 Graphic & UI/UX Design  
-🌐 Networking & IT  
-🔐 Cybersecurity  
-🚀 Innovation & Practical Projects
-
----
-
-## 📈 My Learning Journey
+# 📚 Currently Learning
 
 ```text
-        Learn
-          ↓
-       Practice
-          ↓
-        Build
-          ↓
-    Make Mistakes
-          ↓
-        Improve
-          ↓
-   Build Better Projects
-          ↓
-       Repeat 🚀
+🤖 Artificial Intelligence
+        ↓
+🐍 Python Programming
+        ↓
+💡 Problem Solving
+        ↓
+🌐 Networking & IT
+        ↓
+🎨 UI/UX & Graphic Design
+        ↓
+🚀 Building Practical Projects
